@@ -26,7 +26,7 @@
         "ChineseSimplified",
         "ChineseTraditional",
         "Korean",
-        "TraditionalChinese",
+        "TraditionalChinese"
       ]
     },
     "sourceLanguages": {
@@ -41,7 +41,7 @@
           "ChineseSimplified",
           "ChineseTraditional",
           "Korean",
-          "TraditionalChinese",
+          "TraditionalChinese"
         ]
       },
       "minItems": 1,
