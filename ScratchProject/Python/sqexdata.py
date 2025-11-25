@@ -140,6 +140,7 @@ lang_prefix = {
     5: "_chs",
     6: "_cht",
     7: "_ko",
+    8: "_tc"
 }
 
 

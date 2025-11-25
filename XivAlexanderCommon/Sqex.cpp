@@ -24,6 +24,9 @@ void Sqex::to_json(nlohmann::json& j, const Language& value) {
 		case Language::Korean:
 			j = "Korean";
 			break;
+		case Language::TraditionalChinese:
+			j = "TraditionalChinese";
+			break;
 		case Language::Unspecified:
 		default:
 			j = "Unspecified";  // fallback
