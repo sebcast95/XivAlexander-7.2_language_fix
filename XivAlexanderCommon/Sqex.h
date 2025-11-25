@@ -22,6 +22,7 @@ namespace Sqex {
 		ChineseSimplified = 5,
 		ChineseTraditional = 6,
 		Korean = 7,
+		TraditionalChinese = 8,
 	};
 
 	void to_json(nlohmann::json&, const Language&);
