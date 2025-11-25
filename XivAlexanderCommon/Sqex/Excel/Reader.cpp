@@ -78,6 +78,9 @@ Sqex::Sqpack::EntryPathSpec Sqex::Excel::ExhReader::GetDataPathSpec(const Exh::P
 		case Language::Korean:
 			languageCode = "_ko";
 			break;
+		case Language::TraditionalChinese:
+			languageCode = "_tc";
+			break;
 		default:
 			throw std::invalid_argument("Invalid language");
 	}
