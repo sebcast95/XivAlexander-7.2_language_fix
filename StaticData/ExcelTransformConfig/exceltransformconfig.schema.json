@@ -25,7 +25,8 @@
         "French",
         "ChineseSimplified",
         "ChineseTraditional",
-        "Korean"
+        "Korean",
+        "TraditionalChinese",
       ]
     },
     "sourceLanguages": {
@@ -39,11 +40,12 @@
           "French",
           "ChineseSimplified",
           "ChineseTraditional",
-          "Korean"
+          "Korean",
+          "TraditionalChinese",
         ]
       },
       "minItems": 1,
-      "maxItems": 7
+      "maxItems": 8
     },
     "columnMap": {
       "type": "object",
